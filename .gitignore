@@ -5,3 +5,5 @@ __pycache__/
 **/screenshot/*
 **/temp/*
 logs/*
+config.bat
+node_modules
